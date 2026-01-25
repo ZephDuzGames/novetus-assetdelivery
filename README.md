@@ -6,7 +6,7 @@ The entire Novetus asset library has been included, including assets from Rise o
 
 To contribute, simply send a pull request using a Git application like Github Desktop.
 
-Any questions related to the repo or the guidelines shoudl be put in the Issues tab.
+Any questions related to the repo or the guidelines should be put in the Issues tab.
 
 ## Guidelines:
 
