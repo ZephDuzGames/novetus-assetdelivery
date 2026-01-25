@@ -29,6 +29,7 @@ Any questions related to the repo or the guidelines shoudl be put in the Issues 
 	- Assets that explicitly support pedophilia, zoophilia or any related vile actions are not allowed.
 	- No assets with suicide/self harm jokes.
 	- No referencing drama from other ORC communities/revivals.
+ - Do not upload models for hats, t shirts, etc unless they're connected to another model. This repo is only for the distribution of assets and not for completed clothing items. Meshes, textures, and sounds are allowed, but not the rbxm file.
 	
 ## Legal Disclaimer
 
